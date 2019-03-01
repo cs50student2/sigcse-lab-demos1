@@ -13,3 +13,14 @@ more instructions
 ## Step 3
 
 {% video http://youtube.com/watch?v=Rg8p1wHDcos %}
+
+
+[% spoiler "caption" %}
+
+```
+code block
+```
+
+`foo`
+
+{% endspoiler %}
