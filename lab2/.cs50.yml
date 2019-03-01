@@ -1,1 +1,4 @@
-
+lab50: 
+  files:
+    - !exclude "*"
+    - !include "foo.c"
